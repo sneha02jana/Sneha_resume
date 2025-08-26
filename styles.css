@@ -764,11 +764,13 @@ html {
 }
 
 .profile-img {
-  width: 280px;
-  height: 280px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid #1DCD9F;
+  display: block;        /* allows margin auto centering */
+  margin: 0 auto;        /* centers horizontally */  
 }
 .hero {
   display: flex;
