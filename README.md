@@ -3,7 +3,7 @@
 A developer portfolio showcasing my projects, skills, certifications, and achievements.  
 Built with a clean, responsive design — powered entirely by **HTML, CSS, and JavaScript**, without frameworks or clutter.  
 
-🌐 **Live Site:** [https://sneha02jana.github.io/Portfolio_Sneha/](https://sneha02jana.github.io/Portfolio_Sneha/)
+🌐 **Live Site:** [https://sneha02jana.github.io/Sneha_resume/](https://sneha02jana.github.io/Sneha_resume/)
 
 ---
 
