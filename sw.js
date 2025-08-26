@@ -1,10 +1,10 @@
-const CACHE_NAME = 'bhavin-portfolio-v1';
+const CACHE_NAME = 'sneha-portfolio-v1';
 const urlsToCache = [
   '/',
   '/index.html',
   '/styles.css',
   '/script.js',
-  '/assets/BhavinSharma.jpg',
+  '/assets/profile.jpg',
   '/assets/cursor.png',
   '/assets/android-chrome-512x512.png',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css',
