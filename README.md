@@ -1,19 +1,20 @@
-# Bhavin Sharma | Developer Portfolio 👨‍💻
+# Sneha Jana | Developer Portfolio 👩‍💻
 
-Welcome to the official source code of my personal developer portfolio — built to showcase my projects, skills, certifications, and more. It’s fast, responsive, and completely powered by HTML, CSS, and JavaScript, with zero frameworks and zero clutter.
+A developer portfolio showcasing my projects, skills, certifications, and achievements.  
+Built with a clean, responsive design — powered entirely by **HTML, CSS, and JavaScript**, without frameworks or clutter.  
 
-🌐 **Live Site:** [https://bhavin234.github.io/Portfolio_Bhavin/](https://bhavin234.github.io/Portfolio_Bhavin/)
+🌐 **Live Site:** [https://sneha02jana.github.io/Portfolio_Sneha/](https://sneha02jana.github.io/Portfolio_Sneha/)
 
 ---
 
-## 🧑‍💼 About Me
+## 👩‍💼 About Me
 
-I’m **Bhavin Sharma**, a B.Tech CSE student at SRM Institute of Science and Technology (2025) with strong interests in:
+I’m **Sneha Jana**, a B.Tech CSE (AI-ML) student at SRM Institute of Science and Technology (2025) with strong interests in:
 
-- 💻 Full-Stack Development
-- ☁️ DevOps & Cloud
-- 🤖 Machine Learning
-- 🧪 Testing & Automation
+- 🤖 Artificial Intelligence & Machine Learning  
+- ☁️ Cloud Platforms (AWS, Oracle, Microsoft)  
+- 💻 Data Analysis & Software Engineering  
+- 🌐 Web Development & IoT  
 
 ---
 
@@ -24,5 +25,5 @@ I’m **Bhavin Sharma**, a B.Tech CSE student at SRM Institute of Science and Te
 ├── styles.css             # All custom styling
 ├── script.js              # All interactivity, animations, GitHub integration
 ├── sw.js                  # Service worker for offline caching
-├── Bhavin_ResumeFinale.pdf
-└── bhavin-profile.png
+├── sneha02_resume.pdf     # Resume
+└── profile.jpg            # Profile photo
