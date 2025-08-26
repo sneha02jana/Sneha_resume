@@ -291,7 +291,7 @@ Message:
 ${data.message}
         `);
         
-        const mailtoLink = `mailto:abhijeetbhale7@gmail.com?subject=${emailSubject}&body=${emailBody}`;
+        const mailtoLink = `mailto:snehajana02@gmail.com?subject=${emailSubject}&body=${emailBody}`;
         
         showMessage(`Form submission failed. <a href="${mailtoLink}" class="underline">Click here to send email directly</a> or try again later.`, 'error');
       } finally {
@@ -337,7 +337,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Preload critical images
   const criticalImages = [
-    './assets/AbhijeetBhalePortfolio.jpg',
+    './assets/profile.jpg',
     './assets/cursor.png'
   ];
 
@@ -386,29 +386,6 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
   
-// GitHub API Integration
-document.addEventListener('DOMContentLoaded', function() {
-  const username = 'Bhavin234';
-
-  
-  // GitHub API endpoints
-  const endpoints = {
-    user: `https://api.github.com/users/${username}`,
-    repos: `https://api.github.com/users/${username}/repos`,
-    activity: `https://api.github.com/users/${username}/events`
-  };
-
-  // Fetch GitHub user data
-  async function fetchGitHubData() {
-    try {
-      const [userResponse, reposResponse] = await Promise.all([
-        fetch(endpoints.user),
-        fetch(endpoints.repos)
-      ]);
-
-      if (userResponse.ok && reposResponse.ok) {
-        const userData = await userResponse.json();
-        const reposData = await reposResponse.json();
 
         // Update stats
         document.getElementById('githubRepos').textContent = userData.public_repos;
